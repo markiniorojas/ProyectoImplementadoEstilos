@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/bootstrap/css/bootstrap.css">
+    <script src="/bootstrap/js/bootstrap.js"></script>
+    <link rel="stylesheet" href="css/style.css">
+    <title>Personas</title>
+</head>
+<body>
+    <nav class="navbar navbar-dark bg-dark fixed-top">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="#">Person</a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasDarkNavbar" aria-controls="offcanvasDarkNavbar" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="offcanvas offcanvas-end text-bg-dark" tabindex="-1" id="offcanvasDarkNavbar" aria-labelledby="offcanvasDarkNavbarLabel">
+            <div class="offcanvas-header">
+              <h5 class="offcanvas-title" id="offcanvasDarkNavbarLabel">Formularios</h5>
+              <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+            </div>
+            <div class="offcanvas-body">
+              <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
+                <li class="nav-item">
+                    <a href="../../index.html" class="nav-link">Home</a>
+                </li>
+                <li class="nav-item letras">
+                  <a href="/Formularios/Person/indexPerson.html" class="nav-link">Person</a>
+
+                </li>
+                <li class="nav-item">
+                    <a href="/Formularios/User/indexUser.html" class="nav-link">User</a>
+                </li>
+                <li class="nav-item">
+                    <a href="/Formularios/Rol/indexRol.html" class="nav-link">Rol</a>
+                </li>
+                <li class="nav-item">
+                    <a href="/Formularios/Form/indexForm.html" class="nav-link">Form</a>
+                </li>
+                <li class="nav-item">
+                    <a href="/Formularios/Module/indexModule.html" class="nav-link">Module</a>
+                </li>
+                <li class="nav-item">
+                    <a href="/Formularios/Permission/indexPermission.html" class="nav-link">Permission</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </nav>
+
+      
+    <h1>Personas</h1>
+
+    <div class="container">
+        <form>
+            <div class="form-floating mb-3">
+                <input type="name" class="form-control" id="floatingInput" placeholder="name@example.com">
+                <label for="floatingInput">Nombre</label>
+              </div>
+              <div class="form-floating">
+                <input type="password" class="form-control" id="floatingPassword" placeholder="Password">
+                <label for="floatingPassword">Apellidos</label>
+              </div>
+              <div class="form-floating mb-3">
+                <input type="name" class="form-control" id="floatingInput" placeholder="name@example.com">
+                <label for="floatingInput">Tipo de documento</label>
+              </div>
+              <div class="form-floating">
+                <input type="password" class="form-control" id="floatingPassword" placeholder="Password">
+                <label for="floatingPassword">Numero de Documento</label>
+              </div>
+              <div class="form-floating mb-3">
+                <input type="name" class="form-control" id="floatingInput" placeholder="name@example.com">
+                <label for="floatingInput">Nombre</label>
+              </div>
+              <div class="form-floating">
+                <input type="password" class="form-control" id="floatingPassword" placeholder="Password">
+                <label for="floatingPassword">Apellidos</label>
+              </div>
+            <div class="mb-3 form-check">
+              <input type="checkbox" class="form-check-input" id="exampleCheck1">
+              <label class="form-check-label" for="exampleCheck1">Check me out</label>
+            </div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+          </form>
+    </div>
+    
+
+    <div class="container">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">ID</th>
+                    <th scope="col">PrimerNombre</th>
+                    <th scope="col">Segundo Nombre</th>
+                    <th scope="col">Tipo Documento</th>
+                    <th scope="col">Numero de documento</th>
+                    <th scope="col">Telefono</th>
+                    <th scope="col">EPS</th>
+                    <th scope="col">Genero</th>
+                  </tr>
+            </thead>
+            <tbody>
+              <tr class="table-active">
+              </tr>
+              <tr>
+                <th scope="row">1</th>
+                <td>Mark</td>
+                <td>Otto</td>
+                <td>@mdo</td>
+              </tr>
+              <tr>
+                <th scope="row">3</th>
+                <td>John</td>
+                <td>Doe</td>
+                <td class="table-active">@social</td>
+              </tr>
+            </tbody>
+          </table>
+        <table class="table table-bordered" id="rolesTable">
+            <thead>
+              <tr><th>ID</th><th>Nombre</th></tr>
+    
+            </thead>
+            <tbody></tbody>
+          </table>
+    </div>
+      
+    
+      
+    <script src="js/script.js"></script>
+</body>
+</html>
