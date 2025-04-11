@@ -1,11 +1,11 @@
 {
   "Files": [
     {
-      "Id": "C:\\proyectoConDiseño\\ModelRepository\\ModelSecurityCt\\Web\\wwwroot\\Css\\style.css",
+      "Id": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Web\\wwwroot\\Css\\style.css",
       "PackagePath": "staticwebassets\\Css\\style.css"
     },
     {
-      "Id": "C:\\proyectoConDiseño\\ModelRepository\\ModelSecurityCt\\Web\\wwwroot\\Js\\script.js",
+      "Id": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Web\\wwwroot\\Js\\script.js",
       "PackagePath": "staticwebassets\\Js\\script.js"
     },
     {

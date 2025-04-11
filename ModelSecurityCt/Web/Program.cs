@@ -9,6 +9,7 @@ using Microsoft.EntityFrameworkCore;
 using Utilities.Mapping;
 
 var builder = WebApplication.CreateBuilder(args);
+
 var configuration = builder.Configuration;
 var dbProvider = configuration["DatabaseProvider"];
 
@@ -23,7 +24,7 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddScoped<IPersonRepository, PersonRepository>();
 builder.Services.AddScoped<PersonService>();
 
-builder.Services.AddScoped<IFormRepository,FormRepository>();
+builder.Services.AddScoped<IFormRepository, FormRepository>();
 builder.Services.AddScoped<FormService>();
 
 builder.Services.AddScoped<IModuleRepository, ModuleRepository>();
@@ -42,7 +43,7 @@ builder.Services.AddScoped<UserService>();
 builder.Services.AddScoped<IFormModuleRepository, FormModuleRepository>();
 builder.Services.AddScoped<FormModuleService>();
 
-builder.Services.AddScoped<IRolUserRepository,RolUserRepository>();
+builder.Services.AddScoped<IRolUserRepository, RolUserRepository>();
 builder.Services.AddScoped<RolUserService>();
 
 builder.Services.AddScoped<IRolFormPermissionRepository, RolFormPermissionRepository>();
@@ -69,15 +70,33 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
     }
 });
 
-var OrigenesPermitidos = builder.Configuration.GetValue<string>("OrigenesPermitidos")!.Split(",");
+///<summary>
+///Esto nos ayuda a proteger nuestra API mediante politicas de seguridad para que no se pueda acceder con peticiones desde diferentes origenes al servidor
+///</summary>
 
-builder.Services.AddCors(opciones =>
+//var OrigenesPermitidos = builder.Configuration.GetValue<string>("OrigenesPermitidos")!.Split(",");
+
+//builder.Services.AddCors(opciones =>
+//{
+//    opciones.AddDefaultPolicy(politica =>
+//    {
+//        politica.WithOrigins(OrigenesPermitidos).AllowAnyHeader().AllowAnyMethod();
+//    });
+//});
+
+builder.Services.AddCors(options =>
 {
-    opciones.AddDefaultPolicy(politica =>
+    options.AddDefaultPolicy(policy =>
     {
-        politica.WithOrigins(OrigenesPermitidos).AllowAnyHeader().AllowAnyMethod();
+        policy.AllowAnyOrigin()
+              .AllowAnyHeader()
+              .AllowAnyMethod();
     });
 });
+
+
+
+
 //builder.Services.AddDbContext<ApplicationDbContext>(opciones =>
 //opciones.UseSqlServer("name=DefaultConnection"));
 
