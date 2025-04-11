@@ -86,7 +86,7 @@ window.eliminarLogico = async (id) => {
 };
 
 window.eliminarDefinitivo = async (id) => {
-  if (confirm("¿ELIMINAR PERMANENTEMENTE este rol? Esta acción no se puede deshacer.")) {
+  if (confirm(" ¿ELIMINAR PERMANENTEMENTE este rol? Esta acción no se puede deshacer.")) {
     try {
       await fetch(`${API_URL}/permanent/${id}`, { method: 'DELETE' });
       alert("Rol eliminado permanentemente");

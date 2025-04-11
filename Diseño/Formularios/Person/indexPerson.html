@@ -54,7 +54,8 @@
     <h1>Personas</h1>
 
     <div class="container container1 mt-5">
-      <form id="personForm" class="p-4 shadow rounded bg-light w-75 mx-auto">
+      <form id="personForm" class="p-4 shadow rounded w-75 mx-auto">
+        <input type="hidden" id="personId">
         <div class="form-floating mb-3">
           <input type="text" class="form-control" id="firstName" placeholder="Nombre">
           <label for="firstName">Nombre</label>
@@ -99,24 +100,15 @@
     
 
     <div class="container .container2">
-        <table class="table">
-            <thead>
-            </thead>
-            <tbody>
-              <tr class="table-active">
-              </tr>
-            </tbody>
-          </table>
+      <div class="table-responsive">
         <table class="table table-bordered" id="rolesTable">
             <thead>
               <tr><th>ID</th><th>Nombre</th><th>Apellido</th><th>TipoDocumento</th><th>NumeroDocumento</th><th>Telefono</th><th>EPS</th><th>Genero</th><th>Opciones</th></tr>
             </thead>
             <tbody></tbody>
           </table>
+      </div>
     </div>
-      
-    
-      
     <script type="module" src="js/script.js"></script>
 
 </body>

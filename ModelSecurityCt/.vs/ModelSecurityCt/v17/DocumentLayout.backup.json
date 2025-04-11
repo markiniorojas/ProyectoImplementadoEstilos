@@ -3,20 +3,48 @@
   "WorkspaceRootPath": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|c:\\proyectomarcos\\proyectoimplementadoestilos\\modelsecurityct\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|solutionrelative:web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\proyectomarcos\\proyectoimplementadoestilos\\modelsecurityct\\entity\\model\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\model\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\proyectomarcos\\proyectoimplementadoestilos\\modelsecurityct\\entity\\model\\module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\model\\module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\proyectomarcos\\proyectoimplementadoestilos\\modelsecurityct\\entity\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\proyectomarcos\\proyectoimplementadoestilos\\modelsecurityct\\entity\\entity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\entity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\proyectomarcos\\proyectoimplementadoestilos\\modelsecurityct\\entity\\model\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\model\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\proyectomarcos\\proyectoimplementadoestilos\\modelsecurityct\\entity\\model\\roluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\model\\roluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|c:\\proyectomarcos\\proyectoimplementadoestilos\\modelsecurityct\\web\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|solutionrelative:web\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\proyectomarcos\\proyectoimplementadoestilos\\modelsecurityct\\entity\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|c:\\proyectomarcos\\proyectoimplementadoestilos\\modelsecurityct\\web\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|solutionrelative:web\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|c:\\proyectomarcos\\proyectoimplementadoestilos\\modelsecurityct\\data\\core\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|solutionrelative:data\\core\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|c:\\proyectomarcos\\proyectoimplementadoestilos\\modelsecurityct\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|solutionrelative:web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\proyectomarcos\\proyectoimplementadoestilos\\modelsecurityct\\entity\\entity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\entity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|c:\\proyectomarcos\\proyectoimplementadoestilos\\modelsecurityct\\web\\web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -25,10 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|c:\\proyectomarcos\\proyectoimplementadoestilos\\modelsecurityct\\web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|solutionrelative:web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|c:\\proyectomarcos\\proyectoimplementadoestilos\\modelsecurityct\\data\\core\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|solutionrelative:data\\core\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|c:\\proyectomarcos\\proyectoimplementadoestilos\\modelsecurityct\\business\\core\\iservicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -78,10 +102,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|c:\\proyectomarcos\\proyectoimplementadoestilos\\modelsecurityct\\web\\controllers\\rolusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|solutionrelative:web\\controllers\\rolusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|c:\\proyectomarcos\\proyectoimplementadoestilos\\modelsecurityct\\web\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|solutionrelative:web\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|c:\\proyectomarcos\\proyectoimplementadoestilos\\modelsecurityct\\web\\controllers\\formmodulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -136,10 +156,6 @@
       "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\dto\\roluserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\proyectomarcos\\proyectoimplementadoestilos\\modelsecurityct\\entity\\model\\roluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\model\\roluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\proyectomarcos\\proyectoimplementadoestilos\\modelsecurityct\\entity\\dto\\formmoduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\dto\\formmoduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -150,10 +166,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7493007E-E2C3-4D63-B041-342414B98ACE}|Utilities\\Utilities.csproj|c:\\proyectomarcos\\proyectoimplementadoestilos\\modelsecurityct\\utilities\\mapping\\mapsterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7493007E-E2C3-4D63-B041-342414B98ACE}|Utilities\\Utilities.csproj|solutionrelative:utilities\\mapping\\mapsterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\proyectomarcos\\proyectoimplementadoestilos\\modelsecurityct\\entity\\model\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\model\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|c:\\proyectomarcos\\proyectoimplementadoestilos\\modelsecurityct\\data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -260,20 +272,12 @@
       "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\proyectomarcos\\proyectoimplementadoestilos\\modelsecurityct\\entity\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\proyectomarcos\\proyectoimplementadoestilos\\modelsecurityct\\entity\\dto\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\dto\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|c:\\proyectomarcos\\proyectoimplementadoestilos\\modelsecurityct\\data\\interfaces\\iroluserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|solutionrelative:data\\interfaces\\iroluserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\proyectomarcos\\proyectoimplementadoestilos\\modelsecurityct\\entity\\model\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\model\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\proyectomarcos\\proyectoimplementadoestilos\\modelsecurityct\\entity\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -287,129 +291,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 19,
+          "SelectedChildIndex": 14,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1109014046:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1091023338:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1100517980:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:610743205:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Entity",
-              "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Entity\\Entity.csproj",
-              "RelativeDocumentMoniker": "Entity\\Entity.csproj",
-              "ToolTip": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Entity\\Entity.csproj",
-              "RelativeToolTip": "Entity\\Entity.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-11T02:46:37.342Z",
+              "DocumentIndex": 1,
+              "Title": "Module.cs",
+              "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Entity\\Model\\Module.cs",
+              "RelativeDocumentMoniker": "Entity\\Model\\Module.cs",
+              "ToolTip": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Entity\\Model\\Module.cs",
+              "RelativeToolTip": "Entity\\Model\\Module.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T15:23:58.902Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "IFormService.cs",
-              "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Business\\Interfaces\\IFormService.cs",
-              "RelativeDocumentMoniker": "Business\\Interfaces\\IFormService.cs",
-              "ToolTip": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Business\\Interfaces\\IFormService.cs",
-              "RelativeToolTip": "Business\\Interfaces\\IFormService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T20:08:14.332Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Data\\Core\\IRepository.cs",
-              "RelativeDocumentMoniker": "Data\\Core\\IRepository.cs",
-              "ToolTip": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Data\\Core\\IRepository.cs",
-              "RelativeToolTip": "Data\\Core\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T21:28:58.404Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Data\\Core\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "Data\\Core\\GenericRepository.cs",
-              "ToolTip": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Data\\Core\\GenericRepository.cs",
-              "RelativeToolTip": "Data\\Core\\GenericRepository.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAcwEcAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T05:26:12.838Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "RolUserController.cs",
-              "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Web\\Controllers\\RolUserController.cs",
-              "RelativeDocumentMoniker": "Web\\Controllers\\RolUserController.cs",
-              "ToolTip": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Web\\Controllers\\RolUserController.cs",
-              "RelativeToolTip": "Web\\Controllers\\RolUserController.cs",
-              "ViewState": "AgIAAJIAAAAAAAAAAADwv4oAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T20:31:32.028Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 5,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Web\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Web\\Controllers\\UserController.cs",
               "ToolTip": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Web\\Controllers\\UserController.cs",
               "RelativeToolTip": "Web\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAI8AAAAAAAAAAAAgwCsAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAALMAAAAAAAAAAAAswM8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T20:26:09.341Z"
+              "WhenOpened": "2025-04-08T20:26:09.341Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "FormController.cs",
               "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Web\\Controllers\\FormController.cs",
               "RelativeDocumentMoniker": "Web\\Controllers\\FormController.cs",
@@ -421,7 +333,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "RolController.cs",
               "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Web\\Controllers\\RolController.cs",
               "RelativeDocumentMoniker": "Web\\Controllers\\RolController.cs",
@@ -433,7 +345,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Web\\Program.cs",
               "RelativeDocumentMoniker": "Web\\Program.cs",
@@ -441,12 +353,11 @@
               "RelativeToolTip": "Web\\Program.cs",
               "ViewState": "AgIAAFgAAAAAAAAAAAAkwF8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T20:34:07.353Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T20:34:07.353Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "IServiceBase.cs",
               "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Business\\Core\\IServiceBase.cs",
               "RelativeDocumentMoniker": "Business\\Core\\IServiceBase.cs",
@@ -458,7 +369,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 29,
               "Title": "RolUserRepository.cs",
               "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Data\\Repositories\\RolUserRepository.cs",
               "RelativeDocumentMoniker": "Data\\Repositories\\RolUserRepository.cs",
@@ -470,7 +381,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "Web.csproj",
               "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Web\\Web.csproj",
               "RelativeDocumentMoniker": "Web\\Web.csproj",
@@ -478,12 +389,11 @@
               "RelativeToolTip": "Web\\Web.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-09T05:37:36.812Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-09T05:37:36.812Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Web\\appsettings.json",
               "RelativeDocumentMoniker": "Web\\appsettings.json",
@@ -491,38 +401,149 @@
               "RelativeToolTip": "Web\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-08T20:42:19.163Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T20:42:19.163Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Entity\\Model\\Person.cs",
               "RelativeDocumentMoniker": "Entity\\Model\\Person.cs",
               "ToolTip": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Entity\\Model\\Person.cs",
               "RelativeToolTip": "Entity\\Model\\Person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T21:29:25.427Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Entity\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Entity\\Model\\User.cs",
+              "ToolTip": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Entity\\Model\\User.cs",
+              "RelativeToolTip": "Entity\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:52:49.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "PersonController.cs",
               "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Web\\Controllers\\PersonController.cs",
               "RelativeDocumentMoniker": "Web\\Controllers\\PersonController.cs",
               "ToolTip": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Web\\Controllers\\PersonController.cs",
               "RelativeToolTip": "Web\\Controllers\\PersonController.cs",
-              "ViewState": "AgIAANAAAAAAAAAAAAAswNoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAANAAAAAAAAAAAAAswNkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T20:24:01.878Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 4,
+              "Title": "RolUser.cs",
+              "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Entity\\Model\\RolUser.cs",
+              "RelativeDocumentMoniker": "Entity\\Model\\RolUser.cs",
+              "ToolTip": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Entity\\Model\\RolUser.cs",
+              "RelativeToolTip": "Entity\\Model\\RolUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T22:31:21.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rol.cs",
+              "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Entity\\Model\\Rol.cs",
+              "RelativeDocumentMoniker": "Entity\\Model\\Rol.cs",
+              "ToolTip": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Entity\\Model\\Rol.cs",
+              "RelativeToolTip": "Entity\\Model\\Rol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T21:29:23.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Permission.cs",
+              "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Entity\\Model\\Permission.cs",
+              "RelativeDocumentMoniker": "Entity\\Model\\Permission.cs",
+              "ToolTip": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Entity\\Model\\Permission.cs",
+              "RelativeToolTip": "Entity\\Model\\Permission.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T21:29:31.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RolUserController.cs",
+              "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Web\\Controllers\\RolUserController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\RolUserController.cs",
+              "ToolTip": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Web\\Controllers\\RolUserController.cs",
+              "RelativeToolTip": "Web\\Controllers\\RolUserController.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAADwv4oAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:31:32.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Data\\Core\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Core\\GenericRepository.cs",
+              "ToolTip": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Data\\Core\\GenericRepository.cs",
+              "RelativeToolTip": "Data\\Core\\GenericRepository.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAcwEcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T05:26:12.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Data\\Core\\IRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Core\\IRepository.cs",
+              "ToolTip": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Data\\Core\\IRepository.cs",
+              "RelativeToolTip": "Data\\Core\\IRepository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T21:28:58.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IFormService.cs",
+              "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Business\\Interfaces\\IFormService.cs",
+              "RelativeDocumentMoniker": "Business\\Interfaces\\IFormService.cs",
+              "ToolTip": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Business\\Interfaces\\IFormService.cs",
+              "RelativeToolTip": "Business\\Interfaces\\IFormService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:08:14.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Entity.csproj",
+              "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Entity\\Entity.csproj",
+              "RelativeDocumentMoniker": "Entity\\Entity.csproj",
+              "ToolTip": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Entity\\Entity.csproj",
+              "RelativeToolTip": "Entity\\Entity.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-11T02:46:37.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "IPersonService.cs",
               "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Business\\Interfaces\\IPersonService.cs",
               "RelativeDocumentMoniker": "Business\\Interfaces\\IPersonService.cs",
@@ -534,7 +555,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "style.css",
               "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Web\\wwwroot\\Css\\style.css",
               "RelativeDocumentMoniker": "Web\\wwwroot\\Css\\style.css",
@@ -546,7 +567,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "script.js",
               "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Web\\wwwroot\\Js\\script.js",
               "RelativeDocumentMoniker": "Web\\wwwroot\\Js\\script.js",
@@ -558,7 +579,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "index.cshtml",
               "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Web\\Views\\Home\\index.cshtml",
               "RelativeDocumentMoniker": "Web\\Views\\Home\\index.cshtml",
@@ -570,7 +591,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 22,
               "Title": "IFormModuleRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\AppData\\Local\\SourceServer\\a54176d436f296f07aecd677fa9191e5ff21b2e4da9efab2bcc70a8cc27303e2\\ModelSecurityCt\\Data\\Interfaces\\IFormModuleRepository.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Users\\User\\AppData\\Local\\SourceServer\\a54176d436f296f07aecd677fa9191e5ff21b2e4da9efab2bcc70a8cc27303e2\\ModelSecurityCt\\Data\\Interfaces\\IFormModuleRepository.cs",
@@ -582,7 +603,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
               "Title": "IFormRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\AppData\\Local\\SourceServer\\96774886f7e34e4a6facc300eac3af6296d67199b9ca903c2b7e166a91293616\\ModelSecurityCt\\Data\\Interfaces\\IFormRepository.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Users\\User\\AppData\\Local\\SourceServer\\96774886f7e34e4a6facc300eac3af6296d67199b9ca903c2b7e166a91293616\\ModelSecurityCt\\Data\\Interfaces\\IFormRepository.cs",
@@ -594,7 +615,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "RolDTO.cs",
               "DocumentMoniker": "C:\\Users\\User\\AppData\\Local\\SourceServer\\806d3e68d0dadca803a39537d0ba8086e27f33226f418dddca744cdd0d8ad9c8\\ModelSecurityCt\\Entity\\DTO\\RolDTO.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Users\\User\\AppData\\Local\\SourceServer\\806d3e68d0dadca803a39537d0ba8086e27f33226f418dddca744cdd0d8ad9c8\\ModelSecurityCt\\Entity\\DTO\\RolDTO.cs",
@@ -606,7 +627,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "RolDTO.cs",
               "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Entity\\DTO\\RolDTO.cs",
               "RelativeDocumentMoniker": "Entity\\DTO\\RolDTO.cs",
@@ -618,19 +639,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "RolUser.cs",
-              "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Entity\\Model\\RolUser.cs",
-              "RelativeDocumentMoniker": "Entity\\Model\\RolUser.cs",
-              "ToolTip": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Entity\\Model\\RolUser.cs",
-              "RelativeToolTip": "Entity\\Model\\RolUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T22:31:21.212Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "FormModuleController.cs",
               "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Web\\Controllers\\FormModuleController.cs",
               "RelativeDocumentMoniker": "Web\\Controllers\\FormModuleController.cs",
@@ -642,7 +651,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 24,
               "Title": "ServiceBase.cs",
               "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Business\\Core\\ServiceBase.cs",
               "RelativeDocumentMoniker": "Business\\Core\\ServiceBase.cs",
@@ -654,7 +663,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 30,
               "Title": "FormModuleRepository.cs",
               "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Data\\Repositories\\FormModuleRepository.cs",
               "RelativeDocumentMoniker": "Data\\Repositories\\FormModuleRepository.cs",
@@ -666,7 +675,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 39,
               "Title": "FormModuleDTO.cs",
               "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Entity\\DTO\\FormModuleDTO.cs",
               "RelativeDocumentMoniker": "Entity\\DTO\\FormModuleDTO.cs",
@@ -678,7 +687,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 37,
               "Title": "RolFormPermission.cs",
               "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Entity\\Model\\RolFormPermission.cs",
               "RelativeDocumentMoniker": "Entity\\Model\\RolFormPermission.cs",
@@ -690,7 +699,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 36,
               "Title": "RolFormPermissionDTO.cs",
               "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Entity\\DTO\\RolFormPermissionDTO.cs",
               "RelativeDocumentMoniker": "Entity\\DTO\\RolFormPermissionDTO.cs",
@@ -702,7 +711,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 34,
               "Title": "MySql.sql",
               "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Entity\\DDL\\MySql.sql",
               "RelativeDocumentMoniker": "Entity\\DDL\\MySql.sql",
@@ -713,7 +722,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 32,
               "Title": "sqlServer.sql",
               "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Entity\\DDL\\sqlServer.sql",
               "RelativeDocumentMoniker": "Entity\\DDL\\sqlServer.sql",
@@ -724,7 +733,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 35,
               "Title": "RolFormPermissionRepository.cs",
               "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Data\\Repositories\\RolFormPermissionRepository.cs",
               "RelativeDocumentMoniker": "Data\\Repositories\\RolFormPermissionRepository.cs",
@@ -736,7 +745,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 33,
               "Title": "PostgreSql.sql",
               "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Entity\\DDL\\PostgreSql.sql",
               "RelativeDocumentMoniker": "Entity\\DDL\\PostgreSql.sql",
@@ -747,7 +756,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 31,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Web\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Web\\appsettings.Development.json",
@@ -759,7 +768,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 38,
               "Title": "RolUserDTO.cs",
               "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Entity\\DTO\\RolUserDTO.cs",
               "RelativeDocumentMoniker": "Entity\\DTO\\RolUserDTO.cs",
@@ -771,7 +780,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 40,
               "Title": "FormModuleService.cs",
               "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Business\\Services\\FormModuleService.cs",
               "RelativeDocumentMoniker": "Business\\Services\\FormModuleService.cs",
@@ -783,7 +792,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 41,
               "Title": "MapsterConfig.cs",
               "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Utilities\\Mapping\\MapsterConfig.cs",
               "RelativeDocumentMoniker": "Utilities\\Mapping\\MapsterConfig.cs",
@@ -795,19 +804,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "Rol.cs",
-              "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Entity\\Model\\Rol.cs",
-              "RelativeDocumentMoniker": "Entity\\Model\\Rol.cs",
-              "ToolTip": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Entity\\Model\\Rol.cs",
-              "RelativeToolTip": "Entity\\Model\\Rol.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T21:29:23.958Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 42,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Data\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "Data\\Repositories\\UserRepository.cs",
@@ -819,7 +816,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 44,
               "Title": "IPersonRepository.cs",
               "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Data\\Interfaces\\IPersonRepository.cs",
               "RelativeDocumentMoniker": "Data\\Interfaces\\IPersonRepository.cs",
@@ -831,7 +828,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 43,
               "Title": "PersonService.cs",
               "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Business\\Services\\PersonService.cs",
               "RelativeDocumentMoniker": "Business\\Services\\PersonService.cs",
@@ -843,7 +840,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 49,
               "Title": "IModuleRepository.cs",
               "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Data\\Interfaces\\IModuleRepository.cs",
               "RelativeDocumentMoniker": "Data\\Interfaces\\IModuleRepository.cs",
@@ -855,7 +852,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 48,
               "Title": "FormService.cs",
               "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Business\\Services\\FormService.cs",
               "RelativeDocumentMoniker": "Business\\Services\\FormService.cs",
@@ -867,7 +864,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 46,
               "Title": "PermissionService.cs",
               "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Business\\Services\\PermissionService.cs",
               "RelativeDocumentMoniker": "Business\\Services\\PermissionService.cs",
@@ -879,7 +876,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 47,
               "Title": "FormRepository.cs",
               "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Data\\Repositories\\FormRepository.cs",
               "RelativeDocumentMoniker": "Data\\Repositories\\FormRepository.cs",
@@ -891,7 +888,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 45,
               "Title": "PersonRepository.cs",
               "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Data\\Repositories\\PersonRepository.cs",
               "RelativeDocumentMoniker": "Data\\Repositories\\PersonRepository.cs",
@@ -903,7 +900,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 50,
               "Title": "ModuleRepository.cs",
               "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Data\\Repositories\\ModuleRepository.cs",
               "RelativeDocumentMoniker": "Data\\Repositories\\ModuleRepository.cs",
@@ -915,7 +912,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 51,
               "Title": "RolUserService.cs",
               "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Business\\Services\\RolUserService.cs",
               "RelativeDocumentMoniker": "Business\\Services\\RolUserService.cs",
@@ -927,7 +924,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 52,
               "Title": "RolService.cs",
               "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Business\\Services\\RolService.cs",
               "RelativeDocumentMoniker": "Business\\Services\\RolService.cs",
@@ -939,7 +936,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 53,
               "Title": "ModuleService.cs",
               "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Business\\Services\\ModuleService.cs",
               "RelativeDocumentMoniker": "Business\\Services\\ModuleService.cs",
@@ -951,7 +948,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 54,
               "Title": "FormModule.cs",
               "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Entity\\Model\\FormModule.cs",
               "RelativeDocumentMoniker": "Entity\\Model\\FormModule.cs",
@@ -963,7 +960,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 56,
               "Title": "PermissionController.cs",
               "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Web\\Controllers\\PermissionController.cs",
               "RelativeDocumentMoniker": "Web\\Controllers\\PermissionController.cs",
@@ -975,7 +972,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 57,
               "Title": "ModuleController.cs",
               "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Web\\Controllers\\ModuleController.cs",
               "RelativeDocumentMoniker": "Web\\Controllers\\ModuleController.cs",
@@ -987,7 +984,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 55,
               "Title": "RolRepository.cs",
               "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Data\\Repositories\\RolRepository.cs",
               "RelativeDocumentMoniker": "Data\\Repositories\\RolRepository.cs",
@@ -999,7 +996,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 59,
               "Title": "IFormModuleRepository.cs",
               "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Data\\Interfaces\\IFormModuleRepository.cs",
               "RelativeDocumentMoniker": "Data\\Interfaces\\IFormModuleRepository.cs",
@@ -1011,7 +1008,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 60,
               "Title": "PermissionRepository.cs",
               "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Data\\Repositories\\PermissionRepository.cs",
               "RelativeDocumentMoniker": "Data\\Repositories\\PermissionRepository.cs",
@@ -1023,7 +1020,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 58,
               "Title": "FormDTO.cs",
               "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Entity\\DTO\\FormDTO.cs",
               "RelativeDocumentMoniker": "Entity\\DTO\\FormDTO.cs",
@@ -1035,7 +1032,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 61,
               "Title": "RolFormPermissionController.cs",
               "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Web\\Controllers\\RolFormPermissionController.cs",
               "RelativeDocumentMoniker": "Web\\Controllers\\RolFormPermissionController.cs",
@@ -1047,7 +1044,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 62,
               "Title": "RolFormPermissionService.cs",
               "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Business\\Services\\RolFormPermissionService.cs",
               "RelativeDocumentMoniker": "Business\\Services\\RolFormPermissionService.cs",
@@ -1059,7 +1056,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 63,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Business\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "Business\\Services\\UserService.cs",
@@ -1071,7 +1068,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 65,
               "Title": "BusinessException.cs",
               "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Utilities\\BusinessException.cs",
               "RelativeDocumentMoniker": "Utilities\\BusinessException.cs",
@@ -1083,7 +1080,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 64,
               "Title": "IRolRepository.cs",
               "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Data\\Interfaces\\IRolRepository.cs",
               "RelativeDocumentMoniker": "Data\\Interfaces\\IRolRepository.cs",
@@ -1095,7 +1092,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 66,
               "Title": "DataException.cs",
               "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Utilities\\DataException.cs",
               "RelativeDocumentMoniker": "Utilities\\DataException.cs",
@@ -1107,7 +1104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 67,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Entity\\context\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Entity\\context\\ApplicationDbContext.cs",
@@ -1119,19 +1116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Entity\\Model\\User.cs",
-              "RelativeDocumentMoniker": "Entity\\Model\\User.cs",
-              "ToolTip": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Entity\\Model\\User.cs",
-              "RelativeToolTip": "Entity\\Model\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvxMAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T20:52:49.75Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 68,
               "Title": "PersonDTO.cs",
               "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Entity\\DTO\\PersonDTO.cs",
               "RelativeDocumentMoniker": "Entity\\DTO\\PersonDTO.cs",
@@ -1143,7 +1128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 69,
               "Title": "IRolUserRepository.cs",
               "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Data\\Interfaces\\IRolUserRepository.cs",
               "RelativeDocumentMoniker": "Data\\Interfaces\\IRolUserRepository.cs",
@@ -1155,19 +1140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
-              "Title": "Permission.cs",
-              "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Entity\\Model\\Permission.cs",
-              "RelativeDocumentMoniker": "Entity\\Model\\Permission.cs",
-              "ToolTip": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Entity\\Model\\Permission.cs",
-              "RelativeToolTip": "Entity\\Model\\Permission.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T21:29:31.136Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 70,
               "Title": "UserDTO.cs",
               "DocumentMoniker": "C:\\proyectoMarcos\\ProyectoImplementadoEstilos\\ModelSecurityCt\\Entity\\DTO\\UserDTO.cs",
               "RelativeDocumentMoniker": "Entity\\DTO\\UserDTO.cs",
